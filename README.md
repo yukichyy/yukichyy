@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @yukichyy
+- 👋 Hi, I’m @yukichyy.
 - 👀 I’m interested in broadening my perspective through creative actions.
 - 🌱 I’m currently learning Design Infomatics at an Art University.
 - 👩🏼‍💻 I’m currently working for a PMO team at an electronics company.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 yukichyy/yukichyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
